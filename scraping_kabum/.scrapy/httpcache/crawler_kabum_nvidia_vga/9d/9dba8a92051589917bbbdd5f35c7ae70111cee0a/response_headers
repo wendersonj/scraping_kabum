@@ -1,0 +1,22 @@
+Content-Length: 696
+Content-Type: text/plain; charset=UTF-8
+Date: Sat, 12 Feb 2022 00:13:25 GMT
+Server: openresty
+X-Powered-By: Express
+X-Datadog-Trace-Id: 3745586464793572586
+X-Datadog-Parent-Id: 3745586464793572586
+X-Datadog-Sampled: 1
+X-Datadog-Sampling-Priority: 0
+Accept-Ranges: bytes
+Cache-Control: public, max-age=0
+Last-Modified: Fri, 11 Feb 2022 13:36:09 GMT
+Etag: W/"2b8-17ee8ff8d28"
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15552000
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'kabum.com.br';
+X-Time: 1644624805.011
+X-Cache: Miss from cloudfront
+Via: 1.1 063ffb9b6f05949ebd59b0c2cdffc732.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU1-C2
+X-Amz-Cf-Id: Ehr29pOjMJNYuw7vgzddNiQGFzhnTVn66hjNdbPG1UUadNw7l8VEzA==

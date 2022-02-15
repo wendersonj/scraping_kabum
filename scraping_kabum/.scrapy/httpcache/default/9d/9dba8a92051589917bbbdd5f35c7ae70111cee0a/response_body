@@ -1,0 +1,35 @@
+User-agent: *
+Allow: /.css
+Allow: /.js
+Allow: /.png
+Allow: /.jpg
+Disallow: /carrinho
+Disallow: /minha-conta
+Disallow: /login
+Disallow: /kabum3/ad/
+Disallow: /kabum3/home/
+Disallow: /manager/
+Disallow: /*ordem
+Disallow: /*marcas
+Disallow: *sort=most_searched
+Disallow: *sort=offer_price
+Disallow: *sort=manufacturer_name
+Disallow: *sort=-date_product_arrived
+Disallow: *sort=-number_ratings
+Disallow: *sort=-price
+Disallow: *sort=price
+Disallow: /busca
+Disallow: /promocao
+Disallow: /destaques
+Disallow: /lancamentos
+Disallow: /ofertas
+Disallow: /*?awc=*
+Disallow: *?query=*
+Disallow: /cgi-local
+Disallow: /link
+
+Sitemap: https://www.kabum.com.br/sitemap.xml
+
+User-agent: ia_archiver
+Disallow: /
+
